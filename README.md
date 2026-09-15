@@ -1,4 +1,4 @@
-Hello there👋
+## Hi there👋
 - 🔭 I’m currently working on finding place in this life
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on developing games
