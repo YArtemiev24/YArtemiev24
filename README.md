@@ -9,7 +9,7 @@
 - Languages: Java, C#, Python
 - DB: MySQL
 - Tools: GitHub, VS CODE/Studio, INTELLIJ idea community edition
-- 
+
 ## Soft skills
 - Педант: Довольно педантичен и нелюблю оставлять работу незавершонной
 - Обучаем: Думаю что неплохо усваиваю информацию
